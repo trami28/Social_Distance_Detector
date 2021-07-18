@@ -9,3 +9,4 @@ The project can be divided into three sub systems
 3. Distance measurement between detected objects
 
 
+## YOLOv3 weights used in the code can be accessed here
