@@ -1,5 +1,5 @@
 # **Social Distance Detector**
-*This project has been done for the GRIP(Gradual Rotational Internship Program) conducted by the Spasrk Foundation for  (#July2021 Batch)*
+*This project has been done for the GRIP(Gradual Rotational Internship Program) conducted by the Spasrk Foundation under the task Computer Vision and IOT (for #July2021 Batch)*
 
 The objective of the project is to detect whether social distancing protocol is properly followed in public places. It can then be implemented to monitor social distancing protocol in real time via CCTV surveillance.
 
