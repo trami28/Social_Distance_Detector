@@ -9,4 +9,6 @@ The project can be divided into three sub systems
 3. Distance measurement between detected objects
 
 ### YOLO object detection (You Only Look Once) 
-It is a transfer learning process
+It uses Convolutional Neural Networks for Object Detection. YOLO can detect multiple objects on a single image. It means that apart from predicting classes of the objects, YOLO also detects locations of these objects on the image. YOLO applies a single Neural Network to the whole image. This Neural Network divides image into regions and produces probabilities for every region. After that YOLO predicts number of Bounding  Boxes that cover some regions on the image and chooses the best ones according to the probabilities.
+*The detailed tutorial can be found here*
+https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
