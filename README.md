@@ -11,3 +11,5 @@ The project can be divided into three sub systems
 
 ## YOLOv3 weights used in the code can be accessed here
 https://drive.google.com/file/d/1h37FWrdlFVLPB21XjETP8eg7oZVO8E-B/view?usp=sharing
+# To run it with the GPU on Google Collab
+https://colab.research.google.com/drive/10LVsg_ZUd9UerXrB1VfPah_JbEK8m4ta?usp=sharing
